@@ -106,11 +106,11 @@ its font, the color and sets up a flex container
 }
 
 /* this sets the border of that goes to the left of the paragraph */
-.border-line{
+/* .border-line{
     border-right: 2px solid;
     height: 150px;
     flex: 2 auto; /* this will make sure that the border is always aligned with the title */
-}
+/* } */ 
 
 /* sets up the format for the information that is found inside of this class */
 .About-Me-Info{
@@ -127,12 +127,12 @@ its font, the color and sets up a flex container
 
 
 /* this sets up the second border for the work I am presenting */
-.border-line-two{
+/* .border-line-two{
     border-right: 2px solid;
     height: 520px;
     flex: 2 2%; /* this will make sure that the border is always aligned with the title */
     margin-bottom: 300px;
-}
+/* } */ 
 
 /* this sets up the overall container for the second part, this is where all 3 parts go into  */
 .grid-container{
