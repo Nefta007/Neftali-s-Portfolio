@@ -19,3 +19,6 @@ SO THAT I can review samples of their work and assess whether they're a good can
  - THEN I am taken to that deployed application
  - WHEN I resize the page or view the site on various screens and devices
  - THEN I am presented with a responsive layout that adapts to my viewport
+
+   
+C:\Users\pcnef\Desktop\Portfolio_Beyond\src\assets\images\final-project.png
